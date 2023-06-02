@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Зерна на шахматной доске", "Зерна на шахматной доске\Зерна на шахматной доске.csproj", "{37045310-8A9B-4842-A263-3B5A5B07495F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37045310-8A9B-4842-A263-3B5A5B07495F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37045310-8A9B-4842-A263-3B5A5B07495F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37045310-8A9B-4842-A263-3B5A5B07495F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37045310-8A9B-4842-A263-3B5A5B07495F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14EE15C4-926E-413A-BE7E-D869FE0D6517}
+	EndGlobalSection
+EndGlobal
